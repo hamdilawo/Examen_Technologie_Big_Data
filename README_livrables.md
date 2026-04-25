@@ -40,7 +40,7 @@ La vidéo est hébergée sur Google Drive en raison de sa taille :
 👉 **[Cliquez ici pour voir la vidéo de démonstration](https://drive.google.com/file/d/1dQFXLr8yLGETXRqgmiAf5qvtVQMZsUct/view?usp=drive_link)**
 
 **Contenu de la vidéo (~8 minutes) :**
-1. Introduction — Présentation HTML animée
+1. Introduction
 2. Snowflake — Les 4 schémas RAW → MARTS
 3. DBT — dbt run avec 14 modèles SUCCESS
 4. Airflow — DAG bookshop_dbt_pipeline tout vert
