@@ -51,9 +51,6 @@ La vidéo est hébergée sur Google Drive en raison de sa taille :
 
 ## 🔗 Projet Principal
 
----
-
-## 🏗️ Résumé du Projet
 
 Pipeline Big Data complet pour une librairie sénégalaise :
 
