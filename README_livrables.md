@@ -51,10 +51,6 @@ La vidéo est hébergée sur Google Drive en raison de sa taille :
 
 ## 🔗 Projet Principal
 
-Le code source complet est disponible ici :
-
-👉 **[github.com/hamdilawo/bigdata-bookshop-m2](https://github.com/hamdilawo/bigdata-bookshop-m2)**
-
 ---
 
 ## 🏗️ Résumé du Projet
